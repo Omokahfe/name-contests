@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devobiero/name-contests.git"
+    "url": "git+https://github.com/Omokahfe/name-contests.git"
   },
   "keywords": [
     "graphql"
   ],
   "bugs": {
-    "url": "https://github.com/devobiero/name-contests/issues"
+    "url": "https://github.com/Omokahfe/name-contests/issues"
   },
-  "homepage": "https://github.com/devobiero/name-contests#readme",
+  "homepage": "https://github.com/Omokahfe/name-contests#readme",
   "dependencies": {
     "dataloader": "^1.4.0",
     "express": "^4.17.1",
